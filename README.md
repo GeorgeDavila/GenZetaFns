@@ -10,8 +10,11 @@ For a brief description of each code see the document ProgramDescriptions.pdf
 
 
 For use in academic publication or elsewhere, please cite as:
+
 G.A. Davila, Generalizations of the Riemann Zeta Function, their Numerical Approximations, and
 their Applications to Physics (2015), GitHub repository, https://github.com/GeorgeDavila/GenZetaFns.git
+
+
 
 
 All included code written by George Alexander Davila (Fall 2015) while attending Fordham University, Bronx, NY, USA. 
